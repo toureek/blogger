@@ -1,12 +1,15 @@
 # Refresh && Blogger It. 
 
-## Discovering
+## Discovering  
 
-+ Life  
++ Books  
     - Notes of [< Poor Charlie's Almanack:The Wit and Wisdom of Charles T. Munger >](./Readings/穷查理宝典-查理芒格箴言录.md)  
     - Notes of [< Keep the Friendship with Time >](./Readings/把时间当做朋友.md)   
     - Notes of [< Book List >](./Readings/BookList.md)   
-	
+
++ LIFE of PAI  
+    - LaVie of [《菜鸟司机上路记》](./Readings/Fish-Driver-2019.md)  
+
 
 + IT & Tricks  
     - Tricks of [< Hackintosh on Intel Pentium G4560 >](./Readings/Hackintosh-On-PC-In-Early-2018.md)  
