@@ -7,6 +7,7 @@
     - Notes of [< Keep the Friendship with Time >](./Readings/把时间当做朋友.md)   
     - Notes of [< Book List >](./Readings/BookList.md)   
 
+
 + LIFE of PAI  
     - LaVie of [《菜鸟司机上路记》](./Readings/Fish-Driver-2019.md)  
 
@@ -29,7 +30,7 @@
     - Work-It-Out of [< ThinkPad T400 FanControl on Linux Fedora27 >](./Readings/ThinkPad-T400-Fedora27-FanControllerSolution.md)  
     - Work-It-Out of [< Create MacOS X SnowLeopard virtual machine in VirtualBox on Linux >](./Readings/Create_MacOSX_VMinstance_In_VirtualBox_On_Linux.md)  
     - Work-It-Out of [< Running Linux Command In Background >](./Readings/Running-Linux-Command-In-Background.md)  
-
+    - Work-It-Out of [< Upgrade Fedora 29 to Fedora 30 >](./Readings/Upgrade-Fedora29-to-Fedora30.md)  
 
 
 + Developer
