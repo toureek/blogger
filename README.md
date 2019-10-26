@@ -9,7 +9,7 @@
 
 
 + LIFE of PAI  
-    - LaVie of [《菜鸟司机上路记》](./Readings/Fish-Driver-2019.md)  
+    - LaVie of [《菜鸟司机上路》](./Readings/Fish-Driver-2019.md)  
 
 
 + IT & Tricks  
